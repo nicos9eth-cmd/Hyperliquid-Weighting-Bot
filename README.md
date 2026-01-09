@@ -86,8 +86,8 @@ Ce bot est un outil de **rééquilibrage (weighting)** automatique pour [Hyperli
 - **Auto-détection** : Identifie automatiquement vos positions Spot, Perpétuels et HIP-3
 - **Multi-wallet** : Gérez plusieurs portefeuilles simultanément
 - **Pondération intelligente** : Rééquilibre vos positions selon vos paramètres cibles
-- **Support HIP-3** : Compatible avec les DEXs HIP-3 (flx, hyna, vntl, xyz)
-- **Multi-collatéral** : Supporte USDC, USDH, USDE et USDT comme quote assets
+- **Support HIP-3** : Compatible avec les DEXs HIP-3 (flx, vntl, xyz)
+- **Multi-collatéral** : Supporte USDC et USDH comme quote assets
 - **Protection des pertes** : Bloque automatiquement la vente si votre PnL est négatif
 - **Mode simulation** : Testez votre configuration sans exécuter d'ordres réels
 
@@ -380,8 +380,8 @@ This bot is an automatic **rebalancing (weighting)** tool for [Hyperliquid](http
 - **Auto-detection**: Automatically identifies Spot, Perpetual, and HIP-3 positions
 - **Multi-wallet**: Manage multiple wallets simultaneously
 - **Smart Weighting**: Rebalances your positions according to your target settings
-- **HIP-3 Support**: Compatible with HIP-3 DEXs (flx, hyna, vntl, xyz)
-- **Multi-collateral**: Supports USDC, USDH, USDE, and USDT as quote assets
+- **HIP-3 Support**: Compatible with HIP-3 DEXs (flx, vntl, xyz)
+- **Multi-collateral**: Supports USDC and USDH  as quote assets
 - **Loss Protection**: Automatically blocks selling if your PnL is negative
 - **Simulation Mode**: Test your configuration without executing real orders
 
