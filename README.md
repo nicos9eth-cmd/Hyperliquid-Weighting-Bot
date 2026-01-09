@@ -72,7 +72,7 @@ Le bot détecte automatiquement vos positions ouvertes et génère une configura
 - **Auto-détection** : Identifie automatiquement vos positions Spot, Perpétuels et HIP-3.
 - **Multi-wallet** : Gérez plusieurs portefeuilles simultanément.
 - **Pondération intelligente** : Rééquilibre vos positions selon vos paramètres cibles.
-- **Support HIP-3** : Compatible avec les nouveaux actifs et DEXs sur Hyperliquid (flx, hyna, vntl, xyz).
+- **Support HIP-3** : Compatible avec les nouveaux actifs et DEXs sur Hyperliquid (flx, vntl, xyz).
 
 <p align="right">(<a href="#readme-top">retour en haut</a>)</p>
 
